@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/OpenGL_Project.dir/triangle.cpp.o CMakeFiles/OpenGL_Project.dir/glad/src/glad.c.o -o OpenGL_Project  /usr/lib/x86_64-linux-gnu/libGL.so glfw/src/libglfw3.a -lGL /usr/lib/x86_64-linux-gnu/librt.a -lm -ldl 
