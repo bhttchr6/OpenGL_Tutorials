@@ -35,7 +35,8 @@ To obtain the glad subdirectory. I did the following thing:
 ## 4. See your first traingle using OpenGL pipeline
 To build the executable, go inside the build diredtory and execute the following commands:
 ```bash
-1. cmake ..
-2. make
-3. ./OpenGL_Project
+cd build
+cmake ..
+make
+./OpenGL_Project
 ```
