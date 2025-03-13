@@ -40,3 +40,5 @@ cmake ..
 make
 ./OpenGL_Project
 ```
+## 5. Resources
+1. Articles by [Songhoo.ca](https://www.songho.ca/opengl/gl_sphere.html)
